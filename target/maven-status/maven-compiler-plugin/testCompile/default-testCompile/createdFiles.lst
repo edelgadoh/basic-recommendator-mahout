@@ -1,0 +1,3 @@
+br\com\ml\recommendator\UnitaryRecommenderResultTest.class
+br\com\ml\recommendator\integration\ITRecommendatorTest.class
+br\com\ml\recommendator\integration\ITEvaluateTest.class

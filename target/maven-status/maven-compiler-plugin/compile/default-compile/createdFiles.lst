@@ -1,0 +1,3 @@
+br\com\ml\recommendator\model\RecommenderResult.class
+br\com\ml\recommendator\RecommendatorBuilder.class
+br\com\ml\recommendator\Recommendator.class
